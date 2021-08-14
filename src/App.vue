@@ -13,6 +13,9 @@ export default {
 
 <style lang="scss">
 #app {
-  
+  font-family: 'Open Sans', sans-serif;
+  // font-family: 'Montserrat', sans-serif;
+  // font-family: 'Oswald', sans-serif;
+  // font-family: 'Roboto', sans-serif;
 }
 </style>
