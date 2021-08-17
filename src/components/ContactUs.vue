@@ -4,7 +4,7 @@
     <div class="bg-pink"></div>
     <div class="agency-wrapper">
       <div class="agency-container">
-        <div class="circle"></div>
+        <div class="round"></div>
         <h1>Agency</h1>
         <h3>branding & design</h3>
         <p>
@@ -77,7 +77,7 @@ export default {
     .agency-container {
       padding: 30px 70px 30px 45px;
 
-      .circle {
+      .round {
         background-color: #d2668d;
         width: 69px;
         height: 69px;
