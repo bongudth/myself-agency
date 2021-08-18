@@ -1,5 +1,5 @@
 <template>
-  <div id="design">
+  <div id="section-two">
     <div class="container">
       <h1>design</h1>
       <div class="content-wrapper">
@@ -36,12 +36,12 @@
 
 <script>
 export default {
-  name: "Design",
+  name: "SectionTwo",
 };
 </script>
 
 <style lang="scss" scoped>
-#design {
+#section-two {
   height: 794px;
 
   .container {

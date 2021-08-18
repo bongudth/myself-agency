@@ -1,19 +1,19 @@
 <template>
   <div id="app">
-    <ContactUs />
-    <Design />
+    <SectionOne />
+    <SectionTwo />
   </div>
 </template>
 
 <script>
-import ContactUs from "./components/ContactUs.vue";
-import Design from "./components/Design.vue";
+import SectionOne from "./components/SectionOne.vue";
+import SectionTwo from "./components/SectionTwo.vue";
 
 export default {
   name: "App",
   components: {
-    ContactUs,
-    Design,
+    SectionOne,
+    SectionTwo,
   },
 };
 </script>

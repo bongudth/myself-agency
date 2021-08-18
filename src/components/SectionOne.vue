@@ -1,5 +1,5 @@
 <template>
-  <div id="contact-us">
+  <div id="section-one">
     <div class="bg-image"></div>
     <div class="bg-pink"></div>
     <div class="agency-wrapper">
@@ -49,12 +49,12 @@
 
 <script>
 export default {
-  name: "ContactUs",
+  name: "SectionOne",
 };
 </script>
 
 <style lang="scss" scoped>
-#contact-us {
+#section-one {
   .bg-image {
     background-image: url("../assets/dsff-min.jpg");
     height: 697px;
